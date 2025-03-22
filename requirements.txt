@@ -3,3 +3,5 @@ torch
 datasets
 sentence-transformers
 faiss-cpu
+pypdf
+gradio
